@@ -1,5 +1,4 @@
 # IssueTracker
-Bug reports and issues 
 
 Bugs can be reported via the [Github issue tracker](https://github.com/Devgasm/IssueTracker/issues).
 
